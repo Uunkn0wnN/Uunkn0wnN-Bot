@@ -4,17 +4,17 @@
 <p align="center">
     <a href="https://Botynyakamu.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=RECODE+BY+スマイル+RECODE+BY+スマイル"
+            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=++RECODE+BY+スマイル+"
             alt="Uunkn0wnN-botz"
         />
     </a>
 </p>
 </p>
 <p align="center">
-<a href="https://Uunkn0wnN.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Rozi-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://Uunkn0wnN.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-BOTCAHX-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://Uunkn0wnN.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Alya-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/Uunkn0wnN"><img title="Creator" src="https://img.shields.io/badge/membantu-Luc-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://Uunkn0wnN.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Unknown-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://Uunkn0wnN.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Unknown-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://Uunkn0wnN.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Unknown-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Uunkn0wnN"><img title="Creator" src="https://img.shields.io/badge/membantu-Uunkn0wnN-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Botynyakamu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Botynyakamu?color=green&style=flat-square"></a>
